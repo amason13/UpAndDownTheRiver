@@ -12,6 +12,6 @@ Otherwise, they get 0 points. The next round then begins with players getting on
 This is the 'down the river' part of the game. Now the round of 1 card is repeated and players go back up the river - getting an extra card 
 with each subsequent round. Ultimately, the winner is the person with the most points. 
 
-I have created a simple version of the game which uses treys poker hand evaluator. The computer players are either random players taking actions and 
-declaring tricks at random or greedy players playing their best possible card and declaring tricks at random from [num_cards/2, num_cards] so don't 
+I have created a simple version of the game which uses [treys](https://github.com/ihendley/treys) poker hand evaluator. The computer players are either random players taking actions and 
+declaring tricks at random or greedy players playing their best possible card and declaring tricks at random from /[num_cards/2, num_cards/] so don't 
 expect to face much competition! 
